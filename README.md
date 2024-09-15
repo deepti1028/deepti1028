@@ -1,4 +1,4 @@
-![Github_Banner](https://github.com/deepti1028/deepti1028/assets/109272311/61b8df29-7448-45dd-a2b4-5e35861fd9b7)
+![Github-Banner](https://github.com/user-attachments/assets/56a3a47c-a798-4589-8b0c-9851eda906c0)
 
 
 ### Glad to see you here!  
