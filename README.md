@@ -10,7 +10,7 @@ Let's connect and build something great together! 💡✨
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti1028&label=Profile%20views&color=0e75b6&style=flat" alt="HarshSharma20503" /> </p>
 
-- 📫 How to reach me: **deeptihnd000@gmail.com**
+- 📫 How to reach me: **deepti.jain2810@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/deepti_1028/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepti1028/) 
