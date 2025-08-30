@@ -2,13 +2,12 @@
 
 
 ### Glad to see you here!  
-🚀 Aspiring Software Developer (SDE) currently in final year pursuing a B.Tech in Computer Science and Engineering. Grateful for the journey of learning and excited about the opportunities ahead in the world of software development.
+🚀 Software Development Engineer with hands-on experience in building scalable web applications, automation tools, and real-time systems. Recently completed B.Tech in Computer Science and Engineering. Strong foundation in Data Structures & Algorithms, System Design, and Core CS fundamentals, with practical exposure through internships at Zscaler and Codtech IT Solution.
 
-I possess a solid foundation in data structures and algorithms, along with a demonstrated ability to learn new software and technologies quickly. My strong teamwork skills enable me to provide valuable support in collaborative environments, ensuring effective and efficient project outcomes. Highly motivated and results-oriented, I consistently strive to achieve excellence in all my endeavors.
-
+Skilled in React, Node.js, Express.js, FastAPI, and Python, with additional experience in MongoDB, MySQL, Firebase, and cloud-based integrations.Passionate about solving complex problems, building high-performance systems, and contributing to innovative software solutions.
 Let's connect and build something great together! 💡✨ 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti1028&label=Profile%20views&color=0e75b6&style=flat" alt="HarshSharma20503" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti1028&label=Profile%20views&color=0e75b6&style=flat" alt="deepti1028" /> </p>
 
 - 📫 How to reach me: **deepti.jain2810@gmail.com**
 
@@ -24,8 +23,8 @@ Let's connect and build something great together! 💡✨
 
 ## 👤 Profiles:
 
-- [LeetCode](https://leetcode.com/deepti_jain/): Max-Rating of 1580, 650+ Problem solved, earned 13 badges.
-- [Geeksforgeeks](https://auth.geeksforgeeks.org/user/deeptihnd000): 280+ Problem solved.
+- [LeetCode](https://leetcode.com/deepti_jain/): Max-Rating of 1580, 700+ Problem solved, earned 13 badges.
+- [Geeksforgeeks](https://auth.geeksforgeeks.org/user/deeptihnd000): 300+ Problem solved.
 - [Hackerrank](https://www.hackerrank.com/profile/deeptihnd000): 150+ Problem solved, 5 start in cpp and problem solving.
 
 <br/>
