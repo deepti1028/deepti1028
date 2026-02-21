@@ -1,10 +1,11 @@
-![Github-Banner](https://github.com/user-attachments/assets/56a3a47c-a798-4589-8b0c-9851eda906c0)
+![Github-Banner](https://github.com/user-attachments/assets/3ab338f3-8cd6-41be-ac9f-33fd87ef8876)
+
 
 
 ### Glad to see you here!  
-🚀 Software Development Engineer with hands-on experience in building scalable web applications, automation tools, and real-time systems. Recently completed B.Tech in Computer Science and Engineering. Strong foundation in Data Structures & Algorithms, System Design, and Core CS fundamentals, with practical exposure through internships at Zscaler and Codtech IT Solution.
+Software Engineer with hands-on experience in building scalable web applications, automation tools, and real-time systems. Recently completed B.Tech in Computer Science and Engineering. Strong foundation in Data Structures & Algorithms, System Design, and Core CS fundamentals, with practical exposure through internships at Zscaler and currently working as a Software Test Engineer at PB Healthcare, leading automation architecture and quality engineering for a critical hospital workflow platform (IPD), building scalable Playwright-based test infrastructure and driving release stability across complex business systems.
 
-Skilled in React, Node.js, Express.js, FastAPI, and Python, with additional experience in MongoDB, MySQL, Firebase, and cloud-based integrations.Passionate about solving complex problems, building high-performance systems, and contributing to innovative software solutions.
+Skilled in MERN, FastAPI, and Python and Playwright, with additional experience in MongoDB, MySQL, Firebase, and cloud-based integrations.Passionate about solving complex problems, building high-performance systems, and contributing to innovative software solutions.
 Let's connect and build something great together! 💡✨ 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti1028&label=Profile%20views&color=0e75b6&style=flat" alt="deepti1028" /> </p>
@@ -12,7 +13,7 @@ Let's connect and build something great together! 💡✨
 - 📫 How to reach me: **deepti.jain2810@gmail.com**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/deepti_1028/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepti1028/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepti1028/) 
 <br/> 
 <br/>
 
@@ -23,9 +24,8 @@ Let's connect and build something great together! 💡✨
 
 ## 👤 Profiles:
 
-- [LeetCode](https://leetcode.com/deepti_jain/): Max-Rating of 1580, 700+ Problem solved, earned 13 badges.
+- [LeetCode](https://leetcode.com/deepti_jain/): Max-Rating of 1675, 850+ Problem solved, earned 17 badges.
 - [Geeksforgeeks](https://auth.geeksforgeeks.org/user/deeptihnd000): 300+ Problem solved.
-- [Hackerrank](https://www.hackerrank.com/profile/deeptihnd000): 150+ Problem solved, 5 start in cpp and problem solving.
 
 <br/>
 
